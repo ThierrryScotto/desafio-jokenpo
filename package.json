@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "local": "nodemon src index.js",
     "test": "mocha"
   },
   "author": "",
